@@ -1,0 +1,13 @@
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.exe
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.deps.json
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.runtimeconfig.json
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.runtimeconfig.dev.json
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.dll
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\bin\Debug\netcoreapp3.1\Auto.pdb
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.csprojAssemblyReference.cache
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.AssemblyInfoInputs.cache
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.AssemblyInfo.cs
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.csproj.CoreCompileInputs.cache
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.dll
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.pdb
+L:\Универ\2 курс\2 семестр\Архитектура\Auto\Auto\obj\Debug\netcoreapp3.1\Auto.genruntimeconfig.cache
